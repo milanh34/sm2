@@ -1,0 +1,11 @@
+{
+    "name": "newProject1",
+    "description": "This is a new project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "smowcode": {
+        "settings": {
+            "flowFile": "main.smow"
+        }
+    }
+}
